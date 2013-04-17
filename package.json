@@ -1,0 +1,17 @@
+{
+  "name": "parse-ec",
+  "version": "0.0.2",
+  "dependencies": {
+    "request": "2.14.x",
+    "underscore": "1.4.x",
+    "mailchimp": "0.9.x",
+    "redis": "0.8.x",
+    "time": "0.8.x",
+    "cron": "1.0.x",
+    "async": "0.2.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
